@@ -20,6 +20,11 @@ dependencies:
   convert: ^3.0.2
   async: ^2.9.0
 
+  build: ^2.3.0
+  built_collection: ^5.1.1
+  code_builder: ^4.2.0
+  dart_style: ^2.2.3
+
 dev_dependencies:
   test: ^1.21.3
   lints: ^2.0.0
